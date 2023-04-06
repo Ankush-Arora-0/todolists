@@ -1,0 +1,29 @@
+.headin{
+    text-transform: capitalize;
+    font-size: 20px;
+    margin-top: 0px;
+}
+.inbut{
+    position: relative;
+}
+.inbut input{
+    position: absolute;
+    top: 30px;
+    width: 200px;
+    left: 84px;
+    height: 28px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.data1{
+    margin-top: 100px;
+}
+.delall{
+    margin: 20px;
+
+}
+.delall:hover{
+    background-color: blueviolet !important;
+    color: white !important;
+}

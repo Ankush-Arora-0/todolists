@@ -1,0 +1,23 @@
+.inp{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    margin: 30px auto;
+    text-align: start;
+    padding: 5px;
+}
+.inp p{
+    margin: 5px;
+}
+.inp:hover{
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+    color: white;
+}
+.del:hover{
+    color: red;
+}
+.edi:hover{
+    color: rgb(10, 235, 10);
+}
